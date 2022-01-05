@@ -70,3 +70,46 @@ body{
 .color-goal{
     background-color:rgba(68, 13, 219, .3);
 }
+.dev-sector{
+    margin-top: 100px;
+    display: flex;
+}
+.half-sector{
+    width: 50%;
+    text-align: justify;
+    padding:10px;
+}
+.bg-img{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+    background-position-y: center;
+    background-position-x: 15%;
+}
+.coding-image{
+    height: 380px;
+    width: 350px;
+    margin-left: 25%;
+}
+.project-section{
+    display: flex;
+    margin-top: 100px;
+}
+.project-image{
+    height: 380px;
+    width: 350px;
+    margin-right: 25%;
+}
+.bgp-img{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 150px 150px;
+    background-position-y: 100%;
+    background-position-x: 90%;
+}
+.close-image{
+    margin-right: 25%;
+}
+.close-project{
+    margin-left: 25%;
+}
