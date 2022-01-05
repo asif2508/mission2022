@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.top-section{
+    display: flex;
+}
+.half-section{
+    width: 50%;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding: 20px;
+    text-align: justify;
+}
+.person-image{
+    height: 400px;
+    width: 350px;
+    margin-right: 100px;
+}
+.header-area{
+    font-size: 30px;
+    border-left: 5px solid crimson;
+    padding-left: 20px;
+}
+.mission-color{
+    color: tomato;
+}
+.button{
+    text-decoration: none;
+    background-color: crimson;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 10px;
+}
