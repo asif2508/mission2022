@@ -134,6 +134,30 @@ body{
 .footer-para{
     font-size: 12px;
 }
+
+.Bonus-section{
+    margin-top: 100px;
+}
 .heading{
     font-weight: bold;
+}
+.testimonial-heading{
+    text-align: center;
+    font-family: 'Moon Dance', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
+hr{
+    width: 50%;
+    align-self: center;
+}
+.client-testimonials{
+    align-self: center;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+.client-review{
+    font-family: cursive;
+    font-size: 20px;
 }
