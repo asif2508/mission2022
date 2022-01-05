@@ -45,15 +45,16 @@ body{
 }
 .boxmodel{
     display: flex;
+    margin:5%;
 }
 .box-img{
     height: 200px;
     width: 180px;
 }
 .mission-box{
-    width: 35%;
-    margin: 2%;
-    box-shadow: 5px 5px 3px 7px grey;
+    width: 30%;
+    margin-left: 2%;
+    box-shadow: 5px;
     text-align: center;
     padding: 5px;
     border-radius: 10px;
@@ -61,15 +62,16 @@ body{
 }
 .to-justify{
     text-align: justify;
+    padding: 10px;
 }
 .color-mission{
-    background-color:rgba(232, 99, 81, .3);
+    background-color:rgba(232, 99, 81, .2);
 }
 .color-vission{
-    background-color:rgba(12, 237, 211, .3);
+    background-color:rgba(12, 237, 211, .2);
 }
 .color-goal{
-    background-color:rgba(68, 13, 219, .3);
+    background-color:rgba(68, 13, 219, .2);
 }
 .dev-sector{
     margin-top: 100px;
@@ -110,6 +112,7 @@ body{
 }
 .close-image{
     margin-right: 25%;
+    padding-right: 20px;
 }
 .close-project{
     margin-left: 25%;
@@ -130,4 +133,7 @@ body{
 }
 .footer-para{
     font-size: 12px;
+}
+.heading{
+    font-weight: bold;
 }
